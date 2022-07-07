@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ajuda-teConta</string>
+    <string name="imagem_logo">imagem_logo</string>
+    <string name="email_login">Digite seu e-mail</string>
+    <string name="senha_login">Digite sua senha</string>
+    <string name="texto_botao_logar">Login</string>
+    <string name="text_abrir_tela_cadastro">Não tem conta? Cadastre-se</string>
+    <string name="titulo_toolbar_home">Ajuda-te, Conta</string>
+    <string name="texto_botao_adicionar_gastos">Adicionar gastos</string>
+    <string name="texto_botao_adicionar_ganho">Adicionar ganhos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_digite_nome_gasto">Digite o nome do gasto. Ex: Lazer, Comida, etc...</string>
+    <string name="texto_valor_gasto">Digite o valor desse gasto</string>
+    <string name="texto_botao_salvar_gasto_avulso">SALVAR GASTO AVULSO</string>
+    <string name="texto_botao_voltar">VOLTAR</string>
+    <string name="texto_nome_gasto_fixo">Digite o nome do gasto. Ex: Aluguel, Conta de Luz, etc..</string>
+    <string name="texto_valor_gasto_fixo">Digite o valor do gasto fixo</string>
+    <string name="data_gasto_fixo">Digite a data prevista para pagamento, ou...</string>
+    <string name="imagem_calendario">Imagem calendario</string>
+    <string name="texto_botao_salvar_gasto_fixo">SALVAR GASTO FIXO</string>
+    <string name="texto_botao_voltar_gasto_fixo">VOLTAR</string>
+    <string name="botao_deslogar_user" />
+    <string name="imagem_ganho" />
+    <string name="texto_nome_ganho_avulso">Digite o nome do ganho. Ex: Venda, Bico, etc..</string>
+    <string name="texto_valor_ganho_avulso">Digite o valor do ganho</string>
+    <string name="texto_botao_salvar_ganho_avulso">SALVAR GANHO AVULSO</string>
+    <string name="texto_botao_voltar_ganho_avulso">VOLTAR</string>
+    <string name="texto_botao_hoje_ganho_avulso">HOJE</string>
+    <string name="texto_data_ganho_fixo">Escolha o dia no calendario previsto para o ganho fixo</string>
+    <string name="texto_nome_ganho_fixo">Digite o nome do ganho fixo. Ex: Salario, bico, etc..</string>
+    <string name="texto_ganho_fixo">Digite o valor</string>
+    <string name="texto_botao_voltar_ganho_fixo">VOLTAR</string>
+    <string name="texto_botao_salvar_ganho_fixo">SALVAR GANHO FIXO</string>
+</resources>

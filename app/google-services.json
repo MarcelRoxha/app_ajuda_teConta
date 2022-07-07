@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "749280249527",
+    "project_id": "ajuda-te-conta",
+    "storage_bucket": "ajuda-te-conta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749280249527:android:275acd1f6a244ef6c72f32",
+        "android_client_info": {
+          "package_name": "com.marcel.a.n.roxha.ajuda_teconta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749280249527-ufofalrndt46s73kfp609ul7ea3gu0jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GxrenY0gEo1Jmx0cEAb90gibwNxWPZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749280249527-ufofalrndt46s73kfp609ul7ea3gu0jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749280249527:android:8d6c16e14f754b15c72f32",
+        "android_client_info": {
+          "package_name": "com.marcel.a.n.roxha.ajudateconta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749280249527-ufofalrndt46s73kfp609ul7ea3gu0jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GxrenY0gEo1Jmx0cEAb90gibwNxWPZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749280249527-ufofalrndt46s73kfp609ul7ea3gu0jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

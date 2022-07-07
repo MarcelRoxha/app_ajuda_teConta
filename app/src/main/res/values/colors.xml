@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_escuro">#1835e7</color>
+    <color name="azul_escuro_dois">#1130de</color>
+    <color name="azul_claro">#00b6d2</color>
+    <color name="rosa_escuro">#fa2d8a</color>
+    <color name="roxo">#b345cc</color>
+    <color name="black">#FF000000</color>
+    <color name="amarelo">#eeff0a</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
